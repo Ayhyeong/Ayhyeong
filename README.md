@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Freshman in **[Gachon University](https://www.gachon.ac.kr/kor/index.do), [School of Computing](https://sw.gachon.ac.kr/cms/)**  
+Sophomore in **[Gachon University](https://www.gachon.ac.kr/kor/index.do), [School of Computing](https://sw.gachon.ac.kr/cms/)**  
 - 📫 E-mail: gyehyeong@gachon.ac.kr
 - 🌱 C 
 - 🌱 [Flutter](https://flutter.dev/)
