@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Junior at **[Gachon University](https://www.gachon.ac.kr/kor/index.do)**; Major ― [School of Computing](https://sw.gachon.ac.kr/cms/), Double major ― Public Administration
+Junior at **[Gachon University](https://www.gachon.ac.kr/kor/index.do)**; Major ― [School of Computing](https://www.gachon.ac.kr/sites/pa/index.do), Double major ― [Public Administration](https://www.gachon.ac.kr/sites/pa/index.do)
 
 - 📫 E-mail: gyehyeong@gachon.ac.kr
